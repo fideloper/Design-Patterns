@@ -4,7 +4,7 @@ Exploring design patterns and their uses.
 
 ## Observer Pattern
 
-This is an event model, also sometimes referred to as called "PubSub".
+This is an event model, also referred to as "PubSub".
 
 Observers are used so functionality that's not directly related to an action can still listen in and react to that action. For example, creating a new user might entail saving the user to a data store and sending a welcome email to the new user.
 
