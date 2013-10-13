@@ -1,0 +1,22 @@
+{
+    "name": "fideloper/designpatterns",
+    "description": "Practicing design patterns",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fideloper",
+            "email": "fideloper@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload":{
+        "psr-0":{
+            "Design":"src"
+        }
+    }
+}
