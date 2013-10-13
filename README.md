@@ -1,6 +1,6 @@
 # Design Patterns
 
-Playing with design patterns.
+Exploring design patterns and their uses.
 
 ## Observer Pattern
 
